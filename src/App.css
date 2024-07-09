@@ -1,0 +1,71 @@
+body{
+  overflow-x: hidden;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+*{
+  font-family: "Montserrat", sans-serif;
+}
+
+#snapEle1{
+  transition: all 0.1s;
+}
+
+#snapEle2{
+  transition: all 0.1s;
+}
+
+#snapEle3{
+  transition: all 1s;
+}
+
+#snapEle4{
+  transition: all 1s;
+}
+
+#snapEle5{
+  transition: all 1s;
+}
+
+button,h1{
+  transition: all 0.5s;
+}
+
+img{
+  transition: all 0.5s;
+}
+
+.banner-scroll-container {
+  position: relative;
+  width: 100vw;
+  background-color: white;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.banner-container {
+  overflow: hidden;
+  white-space: nowrap;
+  animation: scrollText 5s infinite linear;
+  display: flex;
+  justify-content: space-between;
+  width: fit-content;
+}
+
+.banner-item {
+  display: inline-block;
+  color: white;
+}
+
+@keyframes scrollText {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-10%);
+  }
+}
+
