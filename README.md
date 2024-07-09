@@ -1,12 +1,18 @@
-# Premium Cloth Shopping Website
+# OddMob.In - Premium Cloth Shopping Brand
 
-## [Visit Website Here..](https://healthcare-erp.dreel.co/)
+## [Visit Website Here..](https://oddmob.in)
 
 ![Preview-1](Preview-1.png)
+
+---
+
 ![Preview-2](Preview-2.png)
+
+---
+
 ![Preview-3](Preview-3.png)
 
-Welcome to the **Premium Cloth Shopping Website** repository. This project is an e-commerce platform for shopping high-quality, premium clothing. The website is built using modern web technologies, ensuring a seamless and responsive user experience.
+Welcome to the **OddMob** repository. This project is an e-commerce platform for shopping high-quality, premium clothing. The website is built using modern web technologies, ensuring a seamless and responsive user experience.
 
 ## Project Overview
 
