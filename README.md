@@ -109,6 +109,10 @@ Welcome to the **OddMob** repository. This project is an e-commerce platform for
 2. Sign up or log in to your account.
 3. Browse and shop for premium clothing items.
 
+## Contributor
+
+1. Abhishek Kumar Singh
+
 ## License
 
 This project is licensed under the MIT License.
