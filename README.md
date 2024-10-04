@@ -2,21 +2,11 @@
 
 ## [Visit Website Here..](https://oddmob.in)
 
-![Preview-1](Preview-1.png)
-
----
-
-![Preview-2](Preview-2.png)
-
----
-
-![Preview-3](Preview-3.png)
+## Project Overview
 
 Welcome to the **OddMob** repository. This project is an e-commerce platform for shopping high-quality, premium clothing. The website is built using modern web technologies, ensuring a seamless and responsive user experience.
 
-## Project Overview
-
-### Features
+## Features
 
 - **User Authentication**
   - Secure sign-up and login functionality
@@ -37,6 +27,12 @@ Welcome to the **OddMob** repository. This project is an e-commerce platform for
 - **Order Management**
   - View past orders and order details
   - Track order status
+
+## Previews
+
+![Preview-1](Preview-1.png)
+![Preview-2](Preview-2.png)
+![Preview-3](Preview-3.png)
 
 ### Technology Stack
 
